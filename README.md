@@ -1,28 +1,12 @@
-# Next.js with TypeScript example
+### To view a live example, **[click here](https://ui-lib-test-project.vercel.app/)**.
 
-## How to use
+## Technologies Used 
 
-Download the example [or clone the repo](https://github.com/mui-org/material-ui):
-
-<!-- #default-branch-switch -->
-
-```sh
-curl https://codeload.github.com/mui-org/material-ui/tar.gz/next | tar -xz --strip=2  material-ui-next/examples/nextjs-with-typescript
-cd nextjs-with-typescript
-```
-
-Install it and run:
-
-```sh
-npm install
-npm run dev
-```
-
-or:
-
-<!-- #default-branch-switch -->
-
-[![Edit on CodeSandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/mui-org/material-ui/tree/next/examples/nextjs-with-typescript)
+- [React](https://reactjs.org/)
+- [Next.js]
+- [Material-ui]
+- [react-dom]
+- [styled-components](https://github.com/martyan/react-customizable-progressbar)
 
 ## The idea behind the example
 
